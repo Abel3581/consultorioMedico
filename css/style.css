@@ -19,7 +19,9 @@
     padding-top: 1px;
   }
   .ancho-nosotros {
-    max-width: 350px;
+    max-width: 330px;
+    padding-left: 3px;
+    padding-right: 3px;
   }
 }
 .sizer {
