@@ -9,6 +9,12 @@
 .navbar:not(.top-nav-collapse) {
   background: transparent !important;
 }
+/* Ancho-list  */
+@media (max-width: 500px) {
+  .lista-ancho {
+    max-width: 350px;
+  }
+}
 
 @media (max-width: 991px) {
   .navbar:not(.top-nav-collapse) {
